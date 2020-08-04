@@ -2,25 +2,19 @@
 My name is Nand Vinchhi and I am a high school software developer based in Bangalore, India. I like to create cool software that has a real world impact. My hobbies include playing heavy metal music on the guitar, watching Anime and playing chess. I like participating in hackathons, and I am a former participant and top contributor of GCI'19 for Julialang.
 
 ## Skillset
-#### Languages
-- Python
-- Julia
-- Javascript
-- C++
-- HTML/CSS
+#### Languages     #### ML + Camera vision     #### Backend + DB
+- Python           - Scikit-learn              - Flask
+- Julia            - Keras                     - ExpressJs
+- Javascript       - OpenCV                    - MongoDB
+- C++              - Teachable Machine         - Firebase
+- HTML/CSS                                     - RedisGraph
 
-#### ML + Camera vision
-- Scikit-learn
-- Keras
-- OpenCV
-- Teachable Machine
 
-#### Backend + DB
-- Flask
-- ExpressJs
-- MongoDB
-- Firebase
-- RedisGraph
+
+
+
+
+
 
 #### Frontend + Design
 - HTML/CSS
