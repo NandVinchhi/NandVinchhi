@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there! My name is Nand Vinchhi 
+###### - Backend and ML developer based in Bangalore India.
+###### - Hackathon enthusiast
+###### - Former Participant and top contributor of GCI'19 for Julialang
+
+
 
 <!--
 **NandVinchhi/NandVinchhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
