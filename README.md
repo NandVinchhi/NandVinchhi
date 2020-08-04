@@ -1,7 +1,40 @@
 ### Hey there! My name is Nand Vinchhi 
 ###### - Backend and ML developer based in Bangalore India.
-###### - Hackathon enthusiast
-###### - Former Participant and top contributor of GCI'19 for Julialang
+###### - Hackathon enthusiast.
+###### - Former Participant and top contributor of GCI'19 for Julialang.
+
+### Skillset
+###### Languages
+- Python
+- Julia
+- Javascript
+- C++
+- HTML/CSS
+
+###### ML + Camera vision
+- Scikit-learn
+- Keras
+- OpenCV
+- Teachable Machine
+
+###### Backend + DB
+- NodeJs
+- Flask
+- ExpressJs
+- MongoDB
+- Firebase
+- RedisGraph
+
+###### Frontend + Design
+- HTML/CSS
+- ReactJs
+- AdobeXD and Figma
+- Bootstrap
+
+###### Tools + Misc.
+- Git
+- Heroku
+- Gcloud
 
 
 
