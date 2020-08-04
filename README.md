@@ -1,5 +1,5 @@
-## Hey there! My name is Nand Vinchhi 
-I am a high school software developer based in Bangalore, India. I like to create cool software that has a real world impact. My hobbies include playing heavy metal music on the guitar, watching Anime, and playing chess.
+## Hey there!
+My name is Nand Vinchhi and I am a high school software developer based in Bangalore, India. I like to create cool software that has a real world impact. My hobbies include playing heavy metal music on the guitar, watching Anime and playing chess. I like participating in hackathons, and I am a former participant and top contributor of GCI'19 for Julialang.
 
 ## Skillset
 #### Languages
@@ -16,7 +16,6 @@ I am a high school software developer based in Bangalore, India. I like to creat
 - Teachable Machine
 
 #### Backend + DB
-- NodeJs
 - Flask
 - ExpressJs
 - MongoDB
