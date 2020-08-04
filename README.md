@@ -1,7 +1,5 @@
 ## Hey there! My name is Nand Vinchhi 
-#### - Backend and ML developer based in Bangalore India.
-#### - Hackathon enthusiast.
-#### - Former Participant and top contributor of GCI'19 for Julialang.
+I am a high school software developer based in Bangalore, India. I like to create cool software that has a real world impact. My hobbies include playing heavy metal music on the guitar, watching Anime, and playing chess.
 
 ## Skillset
 #### Languages
